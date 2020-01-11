@@ -1,0 +1,21 @@
+{
+    "name": "michaelking0/base-ranges",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "michaelking",
+            "email": "michael@mkwd.net"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^8"
+    },
+    "autoload": {
+        "psr-4": {
+            "MichaelKing0\\BaseRanges\\": "src/",
+            "Tests\\": "tests/"
+        }
+    }
+}
