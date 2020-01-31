@@ -1,11 +1,13 @@
 {
     "name": "michaelking0/base-ranges",
+    "description": "Generate ranges of numbers in any base without hitting memory limits",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "michaelking",
-            "email": "michael@mkwd.net"
+            "email": "michael@mkwd.net",
+            "homepage": "https://www.mkwd.net"
         }
     ],
     "require": {},
